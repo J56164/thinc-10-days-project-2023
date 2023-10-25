@@ -1,7 +1,7 @@
-function BottomBarButton({text}) {
+function BottomBarButton({ text="", onClick=() => {} }: { text?: string; onClick?: () => void }) {
     return (
         <>
-            <button>{text}</button>
+            <button onClick={onClick}>{text}</button>
         </>
     )
 }
