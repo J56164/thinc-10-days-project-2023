@@ -1,0 +1,12 @@
+.bottom-bar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f61111;
+    margin: 0%;
+    padding: 1rem;
+}
+
+.bottom-bar > div {
+    background-color: #fefe04;
+}

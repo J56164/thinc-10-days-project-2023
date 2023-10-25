@@ -1,0 +1,11 @@
+.main-container {
+    display: grid;
+    grid-template-areas: 
+        "topbar"
+        "content"
+        "bottombar"
+    ;
+    grid-template-rows: 10% 80% 10%;
+    height: 100%;
+    width: 100%;
+}
