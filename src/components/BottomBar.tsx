@@ -1,12 +1,13 @@
 import './BottomBar.css'
+import BottomBarButton from './BottomBarButton'
 
 function BottomBar() {
     return (
         <>
             <div className="bottom-bar">
-                <div>Home</div>
-                <div>Ate history</div>
-                <div>User</div>
+                <BottomBarButton text="Home"></BottomBarButton>
+                <BottomBarButton text="Ate History"></BottomBarButton>
+                <BottomBarButton text="User"></BottomBarButton>
             </div>
         </>
     )
