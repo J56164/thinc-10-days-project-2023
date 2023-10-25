@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './BottomBar.css'
 
 function BottomBar() {

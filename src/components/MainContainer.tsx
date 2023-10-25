@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './MainContainer.css'
 import TopBar from './TopBar'
 import Content from './main_pages/Content'

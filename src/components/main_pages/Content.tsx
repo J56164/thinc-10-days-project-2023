@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './Content.css'
 
 function Content() {
