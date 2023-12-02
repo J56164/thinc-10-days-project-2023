@@ -1,5 +1,8 @@
 # ...
 
+Discontinued.
+Newer version [here](https://github.com/toppyc4/chula-foodie).
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
